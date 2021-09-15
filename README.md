@@ -27,5 +27,8 @@ Dataset and sources used:
 3. From <https://levelup.gitconnected.com/extracting-and-analysing-spotify-tracks-with-python-d1466fc1dfee
 4. From <https://www.kaggle.com/ivannatarov/spotify-daily-top-200-songs-with-genres-20172021> 
 
+Links to Tableau visualizations used in presentation:
 
+https://public.tableau.com/views/Project_1_16311960879100/DashboardforViral50?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Project_2_16312157355450/Top10tracksperregionbystream_1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
